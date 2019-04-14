@@ -24,7 +24,7 @@ Serving a simple machine learning model as a webservice using [flask](http://fla
         -d '[5.9,3.0,5.1,1.8]'
     ```
     
-For details on floating the containerized app on [AWS ec2 instance](https://aws.amazon.com/ec2/), see the [blog]().
+For details on floating the containerized app on [AWS ec2 instance](https://aws.amazon.com/ec2/), see the [blog](https://medium.com/@tanuj.jain.10/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf).
 
 ## LICENSE
 See [LICENSE](LICENSE) for details.
