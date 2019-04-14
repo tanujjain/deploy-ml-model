@@ -1,21 +1,3 @@
-Skip to content
-
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@tanujjain
-1
-0 0 tanujjain/testrepo
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-testrepo/.gitignore
-@tanujjain tanujjain Updated gitignore to allow visualization notebook to get pushed.
-bec7767 16 days ago
-226 lines (174 sloc)  3.34 KB
-
 # Created by https://www.gitignore.io/api/linux,macos,python,pycharm
 
 ### Linux ###
